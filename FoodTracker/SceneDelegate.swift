@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  FoodTracker
 //
-//  Created by Diego Castaño on 28/10/19.
-//  Copyright © 2019 @diegoccastano. All rights reserved.
+//  Created by Diego Castaño on 13/02/20.
+//  Copyright © 2020 @diegoccastano. All rights reserved.
 //
 
 import UIKit

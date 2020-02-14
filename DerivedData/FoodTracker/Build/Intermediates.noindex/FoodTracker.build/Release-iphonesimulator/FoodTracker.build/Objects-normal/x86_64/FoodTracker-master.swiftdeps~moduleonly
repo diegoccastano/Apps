@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "1067edad183e39deb505e921f96b3233"
+build_time: [1581627414, 354321000]
+inputs:
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Models/Meal.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Controllers/ViewController.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Controllers/AddItemsViewController.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Controllers/MealsTableViewController.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Controllers/RemoveMealViewController.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Models/Item.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Models/MealDAO.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Models/Alert.swift": [9223372036, 854775807]
+  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/SceneDelegate.swift": [9223372036, 854775807]
