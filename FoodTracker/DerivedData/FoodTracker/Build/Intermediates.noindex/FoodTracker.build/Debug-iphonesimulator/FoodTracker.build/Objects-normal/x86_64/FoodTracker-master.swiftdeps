@@ -1,14 +1,14 @@
 version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
-options: "25656a6e1b37b74f658c68c3fc857dd3"
-build_time: [1581717008, 967831000]
+options: "feff204ac36dff8de7aea239d914b6d8"
+build_time: [1581870457, 309242000]
 inputs:
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Models/Meal.swift": [1581712898, 986527461]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Controllers/ViewController.swift": [1581716605, 153522823]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Controllers/AddItemsViewController.swift": [1581712898, 967612098]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Models/ArchiveUtils.swift": [1581716014, 478144918]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/AppDelegate.swift": [1581712898, 958316937]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Controllers/MealsTableViewController.swift": [1581716933, 184805684]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Controllers/RemoveMealViewController.swift": [1581712899, 7834078]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Models/Item.swift": [1581712898, 975129893]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/Models/Alert.swift": [1581712899, 47815577]
-  "/Users/diegocastano/Documents/FoodTracker/FoodTracker/SceneDelegate.swift": [1581712898, 945550401]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/Models/Meal.swift": !dirty [1581775829, 261773740]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/Controllers/ViewController.swift": !dirty [1581775829, 260962990]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/Controllers/AddItemsViewController.swift": !dirty [1581775829, 260578559]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/Models/ArchiveUtils.swift": !dirty [1581775829, 261430182]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/AppDelegate.swift": !dirty [1581775829, 259485121]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/Controllers/MealsTableViewController.swift": !dirty [1581775829, 260707512]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/Controllers/RemoveMealViewController.swift": !dirty [1581775829, 260837675]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/Models/Item.swift": !dirty [1581775829, 261620756]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/Models/Alert.swift": !dirty [1581775829, 261240886]
+  "/Users/diegocastano/Documents/Apps/FoodTracker/FoodTracker/SceneDelegate.swift": !dirty [1581775829, 261910489]
